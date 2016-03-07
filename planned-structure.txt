@@ -1,0 +1,11 @@
+Planned Structure:
+Main
+Board
+Certamen
+	Resources
+	Questions
+	Competition Schedule
+Convention Forms
+	IJCL
+	NJCL
+Bucephalus
